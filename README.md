@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avrumnoor
+- 👋 Hi, I’m Avrum Noor.
 - 👀 I’m interested in game theory, decision-making over networks, and multiagent learning.
 - 🌱 I’m currently learning how to develop low-fidelity app prototypes.
 - 💞️ I’m looking to collaborate on anything!
