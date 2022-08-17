@@ -14,4 +14,4 @@ Working on projects at the intersection of DevOps :octocat: and Machine Learning
 
 ## Featured Projects :open_book:
 
-## Licence :identification_card:
+## License
