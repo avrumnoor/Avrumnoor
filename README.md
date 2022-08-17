@@ -14,7 +14,7 @@ Working on projects at the intersection of DevOps :octocat: and Machine Learning
 
 ### Pole Balancer
 
-A Python program that uses reinforcement learning (RL) to automatically design a policy for the classic controls problem of a cart balancing a pole. [Code](https://github.com/avrumnoor/pole-balancer)
+A Python program that uses reinforcement learning (RL) to automatically design a policy for the classic controls problem of a cart balancing a pole. [[Code](https://github.com/avrumnoor/pole-balancer)]
 
 
 ### VR Theater
