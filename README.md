@@ -4,7 +4,7 @@
 
 ![Twitter](https://img.shields.io/twitter/follow/avrumnoor?style=social)
 ![Followers](https://img.shields.io/github/followers/avrumnoor?style=flat-square)
-![Stars](https://img.shields.io/github/stars/AvrumNoor?affiliations=OWNER&style=flat-square)
+![Stars](https://img.shields.io/badge/stars-1040-blue?style=flat-square)
 
 Working on projects at the intersection of DevOps :octocat: and Machine Learning :robot:.
 Writing lightning-fast code packages ⚡💻. 
