@@ -18,7 +18,7 @@ A Python program that uses reinforcement learning (RL) to automatically design a
 
 
 ### VR Theater
-3D-Audio VR Environment [Code (Coming Soon)]() [Paper](https://drive.google.com/file/d/1zCvvWg_8MKjw7BfBNh_JYcbAwknJYuVa/view?usp=sharing)
+3D-Audio VR Environment [[Code (Coming Soon)]()] [[Paper](https://drive.google.com/file/d/1zCvvWg_8MKjw7BfBNh_JYcbAwknJYuVa/view?usp=sharing)]
 
 ## License 	:balance_scale:
 [![License](https://img.shields.io/github/license/avrumnoor/Avrumnoor)](./LICENSE.md)
