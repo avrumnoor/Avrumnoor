@@ -1,5 +1,7 @@
 # Avrum Noor
 
+![Followers](https://img.shields.io/github/followers/avrumnoor?style=flat-square)
+
 Writing lightning-fast code packages ⚡💻. 
 
 ## Socials
