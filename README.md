@@ -12,5 +12,7 @@ Working on projects at the intersection of DevOps :octocat: and Machine Learning
 
 ## Featured Projects :open_book:
 
+* [Pole Balancer](https://github.com/avrumnoor/pole-balancer)
+
 ## License 	:balance_scale:
 [![License](https://img.shields.io/github/license/avrumnoor/Avrumnoor)](./LICENSE.md)
