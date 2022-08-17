@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Avrum Noor.
-- 👀 I’m interested in game theory, decision-making over networks, and multiagent learning.
-- 🌱 I’m currently learning how to develop low-fidelity app prototypes.
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: "first name"@stanford.edu
+# Avrum Noor
 
-<!---
-avrumnoor/avrumnoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+
+Writing lightning-fast code packages ⚡💻. 
+
+## About Me
