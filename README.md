@@ -22,7 +22,7 @@ A Python program that uses reinforcement learning (RL) to automatically design a
 
 
 ### Verner
-A cyberpunk-inspired VSCode theme [[Download/Install](https://marketplace.visualstudio.com/items?itemName=avrumnoor.verner)]
+A cyberpunk-inspired VSCode theme [[Code](https://github.com/avrumnoor/Verner)] [[Download/Install](https://marketplace.visualstudio.com/items?itemName=avrumnoor.verner)]
 
 
 ## License 	:balance_scale:
