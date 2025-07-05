@@ -12,7 +12,7 @@ Working on projects at the intersection of Electronic Design Automation 💻🛠
 
 ## Featured Projects
 
-### FyreChat 🔥💬  
+### FyreChats 🔥💬  
 A Firebase-powered retro chatroom styled after early 2000s internet culture. Built with modern web tools and real-time database syncing using Firestore.
 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)  
