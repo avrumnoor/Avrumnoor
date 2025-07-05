@@ -29,7 +29,7 @@ A Firebase-powered retro chatroom styled after early 2000s internet culture. Bui
 
 ---
 
-### Pole Balancer 🎯🧠  
+### CartPole Balancer 🎯🧠  
 A Python-based reinforcement learning agent that solves the classic control problem of balancing a pole on a moving cart using policy gradients.
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
