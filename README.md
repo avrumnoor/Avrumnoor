@@ -21,7 +21,7 @@ A modular flow generator for VLSI design. Contributing to improving open-source 
 - 🚀 Focused on improving flow modularity and scalability  
 - 📦 Written in Python, supports plug-and-play design steps  
 
-👉 [View Repository](https://github.com/mflowgen/mflowgen
+👉 [View Repository](https://github.com/mflowgen/mflowgen)
 
 ---
 
