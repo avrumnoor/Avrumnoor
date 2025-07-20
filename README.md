@@ -10,6 +10,22 @@ Working on projects at the intersection of Electronic Design Automation 💻🛠
 
 ## 🛠 Featured Projects
 
+### Redis Clone in Python ⚙️🍍  
+A from-scratch implementation of a Redis-compatible server in Python, supporting RESP parsing, concurrent connections, and key expiry with millisecond precision.
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Socket](https://img.shields.io/badge/Socket-000000?style=for-the-badge&logo=socket.io&logoColor=white)]()
+[![Multithreading](https://img.shields.io/badge/Multithreaded-FF6F00?style=for-the-badge)]()
+
+- 🔁 Implements basic Redis commands: `PING`, `ECHO`, `SET`, `GET`  
+- ⏱️ Supports key expiration with `PX` parameter  
+- ⚡ Handles multiple client connections using threads  
+- 🔍 Parses raw RESP protocol inputs  
+
+👉 [View Code](https://github.com/avrumnoor/redispython)
+
+---
+
 ### FyreChats 🔥💬  
 A Firebase-powered retro chatroom styled after early 2000s internet culture. Built with modern web tools and real-time database syncing using Firestore.
 
