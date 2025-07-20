@@ -7,6 +7,17 @@
 Working on projects at the intersection of Electronic Design Automation 💻🛠️⚙️, DevOps :octocat:, and Machine Learning :robot: + Doing some full-stack development on the side 💻🌐
 
 ---
+## 🔧 Currently Contributing To
+
+### [mflowgen](https://github.com/mflowgen/mflowgen) – Modular VLSI Flow Generator
+
+[![EDA](https://img.shields.io/badge/VLSI-EDA-blue?style=for-the-badge)]()
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+
+Contributing actively to [mflowgen](https://github.com/mflowgen/mflowgen), an open-source, Python-based, modular framework for building VLSI design flows.  
+I'm working on improving flow components and enhancing support for modern PPA-optimized design stages using open and commercial tools.
+
+---
 
 ## 🛠 Featured Projects
 
