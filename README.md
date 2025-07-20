@@ -9,13 +9,19 @@ Working on projects at the intersection of Electronic Design Automation 💻🛠
 ---
 ## 🔧 Currently Contributing To
 
-### [mflowgen](https://github.com/mflowgen/mflowgen) – Modular VLSI Flow Generator
+### mflowgen 🧱🧪  
+A modular flow generator for VLSI design. Contributing to improving open-source and commercial tool integration, automation, and PPA optimizations.
 
 [![EDA](https://img.shields.io/badge/VLSI-EDA-blue?style=for-the-badge)]()
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+[![GitHub](https://img.shields.io/badge/GitHub-mflowgen%2Fmflowgen-181717?style=for-the-badge&logo=github)](https://github.com/mflowgen/mflowgen)
 
-Contributing actively to [mflowgen](https://github.com/mflowgen/mflowgen), an open-source, Python-based, modular framework for building VLSI design flows.  
-I'm working on improving flow components and enhancing support for modern PPA-optimized design stages using open and commercial tools.
+- 🧩 DAG-based architecture for step composition in chip design flows  
+- 🛠 Integrates commercial and open-source tools like Synopsys and OpenROAD  
+- 🚀 Focused on improving flow modularity and scalability  
+- 📦 Written in Python, supports plug-and-play design steps  
+
+👉 [View Repository](https://github.com/mflowgen/mflowgen
 
 ---
 
